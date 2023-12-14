@@ -1,0 +1,7 @@
+[09-Feb-2023 12:18:52 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1608531968 bytes) in /home2/gloryweb/public_html/taxsalesupportdemo/storage/framework/views/4a25e93dce73a8c86942e25c9211dfd05eea01d2.php on line 31
+[09-Feb-2023 12:19:03 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1071661056 bytes) in /home2/gloryweb/public_html/taxsalesupportdemo/storage/framework/views/4a25e93dce73a8c86942e25c9211dfd05eea01d2.php on line 31
+[09-Feb-2023 05:22:05 America/Boise] PHP Parse error:  syntax error, unexpected identifier "where" in /home2/gloryweb/public_html/taxsalesupportdemo/app/Helpers/helpers.php on line 198
+[09-Feb-2023 05:22:06 America/Boise] PHP Parse error:  syntax error, unexpected identifier "where" in /home2/gloryweb/public_html/taxsalesupportdemo/app/Helpers/helpers.php on line 198
+[14-Feb-2023 03:30:42 America/Boise] PHP Parse error:  syntax error, unexpected identifier "home", expecting ";" in /home2/gloryweb/public_html/taxsalesupportdemo/app/Helpers/helpers.php on line 235
+[14-Feb-2023 03:30:43 America/Boise] PHP Parse error:  syntax error, unexpected identifier "home", expecting ";" in /home2/gloryweb/public_html/taxsalesupportdemo/app/Helpers/helpers.php on line 235
+[14-Feb-2023 03:30:46 America/Boise] PHP Parse error:  syntax error, unexpected identifier "home", expecting ";" in /home2/gloryweb/public_html/taxsalesupportdemo/app/Helpers/helpers.php on line 235
